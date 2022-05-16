@@ -5,6 +5,7 @@
 I’m currently working on:
 - [Gitly](https://github.com/vlang/gitly)
 - [Tunnel manager](https://github.com/walkingdevel/tunnel-manager)
+- [SSH Config Parser](https://github.com/walkingdevel/ssh-config-parser)
 
 ---
 
