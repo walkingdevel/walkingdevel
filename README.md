@@ -12,4 +12,4 @@ I’m currently working on:
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=walkingdevel.visitor-badge&left_text=Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=walkingdevel.visitor-badge&left_text=Visits)
